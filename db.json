@@ -4,7 +4,7 @@
       "id": 1,
       "time": "10/07/2019 12:07",
       "title": "Demarrage routine",
-      "description": "L'appareil 14 a commence sa routine.",
+      "description": "L'appareil 2 a commence sa routine.",
       "coordinates": "39 17 N, 76 36 O"
     },
     {
@@ -25,20 +25,34 @@
       "id": 4,
       "time": "10/07/2019 13:20",
       "title": "Fin routine",
-      "description": "L'appareil 14 a fini sa routine.",
+      "description": "L'appareil 1 a fini sa routine.",
       "coordinates": "39 12 N, 76 40 O"
     }
   ],
   "users": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "Statut": "Inactif",
+      "Anomalies detectees": 0,
+      "Dernier log": "L'appareil 1 a fini sa routine",
+      "Coodonnées": "39 12 N, 76 40 O",
+      "Vitesse":  "0 km/h"
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "Statut": "Actif",
+      "Anomalies detectees": 0,
+      "Dernier log": "L'appareil 2 a commencé sa routine",
+      "Coordonnées": "39 17 N, 76 36 O",
+      "Vitesse": "4 km/h"
+    },
+    {
+      "id": 3,
+      "Statut": "Actif",
+      "Anomalies detectees": 2,
+      "Dernier log": "L'anomalie suivante a ete detectee : rail endommage.",
+      "Coordonnées": "39 19 N, 76 31 O",
+      "vitesse": "4 km/h"
     }
   ],
   "profile": {
