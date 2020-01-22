@@ -34,7 +34,7 @@
       "id": 1,
       "Statut": "Inactif",
       "Anomalies detectees": 0,
-      "Dernier log": "L'appareil 1 a fini sa routine",
+      "Dernier log": "L'appareil 1 a fini sa routine.",
       "Coodonnées": "39 12 N, 76 40 O",
       "Vitesse":  "0 km/h"
     },
@@ -42,7 +42,7 @@
       "id": 2,
       "Statut": "Actif",
       "Anomalies detectees": 0,
-      "Dernier log": "L'appareil 2 a commencé sa routine",
+      "Dernier log": "L'appareil 2 a commence sa routine.",
       "Coordonnées": "39 17 N, 76 36 O",
       "Vitesse": "4 km/h"
     },
