@@ -4,56 +4,56 @@
       "id": 1,
       "Date": "9/07/2019 17:13",
       "Label": "Demarrage routine",
-      "Description": "L'appareil 1 commence sa routine.",
+      "Description": "La machine numero 1 commence sa routine.",
       "Coordonnees": "39 11 N, 75 47 O"
     },
     {
       "id": 2,
       "Date": "9/07/2019 17:41",
       "Label": "Demarrage routine",
-      "Description": "L'appareil 2 commence sa routine.",
+      "Description": "La machine numero 2 commence sa routine.",
       "Coordonnees": "39 13 N, 75 37 O"
     },
     {
       "id": 3,
       "Date": "9/07/2019 18:42",
       "Label": "Fin routine",
-      "Description": "L'appareil 2 a fini sa routine.",
+      "Description": "La machine numero 2 a fini sa routine.",
       "Coordonnees": "39 02 N, 74 55 O"
     },
     {
       "id": 4,
       "Date": "9/07/2019 19:20",
       "Label": "Demarrage routine",
-      "Description": "L'appareil 3 commence sa routine.",
+      "Description": "La machine numero 3 commence sa routine.",
       "Coordonnees": "39 37 N, 77 24 O"
     },
     {
       "id": 5,
       "Date": "10/07/2019 12:07",
       "Label": "Demarrage routine",
-      "Description": "L'appareil 2 commence sa routine.",
+      "Description": "La machine numero 2 commence sa routine.",
       "Coordonnees": "39 17 N, 76 36 O"
     },
     {
       "id": 6,
       "Date": "10/07/2019 12:23",
       "Label": "Detection anomalie",
-      "Description": "L'anomalie suivante a ete detectee par l'appareil 3: ecartement des rails de 2,14cm.",
+      "Description": "L'anomalie suivante a ete detectee par la machine numero 3: ecartement des rails de 2,14cm.",
       "Coordonnees": "39 18 N, 75 58 O"
     },
     {
       "id": 7,
       "Date": "10/07/2019 12:46",
       "Label": "Detection anomalie",
-      "Description": "L'anomalie suivante a ete detectee par l'appareil 3: rail endommage.",
+      "Description": "L'anomalie suivante a ete detectee par la machine numero 3: rail endommage.",
       "Coordonnees": "39 19 N, 76 31 O"
     },
     {
       "id": 8,
       "Date": "10/07/2019 13:20",
       "Label": "Fin routine",
-      "Description": "L'appareil 1 a fini sa routine.",
+      "Description": "La machine numero 1 a fini sa routine.",
       "Coordonnees": "39 12 N, 76 40 O"
     }
   ],
@@ -62,7 +62,7 @@
       "id": 1,
       "Statut": "Inactif",
       "Anomalies detectees": 0,
-      "Dernier log": "L'appareil 1 a fini sa routine.",
+      "Dernier log": "La machine numero 1 a fini sa routine.",
       "Coordonnees": "39 12 N, 76 40 O",
       "Vitesse":  "0 km/h"
     },
@@ -70,7 +70,7 @@
       "id": 2,
       "Statut": "Actif",
       "Anomalies detectees": 0,
-      "Dernier log": "L'appareil 2 a commence sa routine.",
+      "Dernier log": "La machine numero 2 a commence sa routine.",
       "Coordonnees": "39 17 N, 76 36 O",
       "Vitesse": "4 km/h"
     },
@@ -78,7 +78,7 @@
       "id": 3,
       "Statut": "Actif",
       "Anomalies detectees": 2,
-      "Dernier log": "L'anomalie suivante a ete detectee : rail endommage.",
+      "Dernier log": "L'anomalie suivante a ete detectee par la machine numero 3: rail endommage.",
       "Coordonnees": "39 19 N, 76 31 O",
       "Vitesse": "4 km/h"
     }
