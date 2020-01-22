@@ -2,31 +2,31 @@
   "logs": [
     {
       "id": 1,
-      "time": "10/07/2019 12:07",
-      "title": "Demarrage routine",
-      "description": "L'appareil 2 a commence sa routine.",
-      "coordinates": "39 17 N, 76 36 O"
+      "Date": "10/07/2019 12:07",
+      "Label": "Demarrage routine",
+      "Description": "L'appareil 2 a commence sa routine.",
+      "Coordonnees": "39 17 N, 76 36 O"
     },
     {
       "id": 2,
-      "time": "10/07/2019 12:23",
-      "title": "Detection anomalie",
-      "description": "L'anomalie suivante a ete detectee : ecartement des rails de 2,14cm.",
-      "coordinates": "39 18 N, 75 58 O"
+      "Date": "10/07/2019 12:23",
+      "Label": "Detection anomalie",
+      "Description": "L'anomalie suivante a ete detectee : ecartement des rails de 2,14cm.",
+      "Coordonnees": "39 18 N, 75 58 O"
     },
     {
       "id": 3,
-      "time": "10/07/2019 12:46",
-      "title": "Detection anomalie",
-      "description": "L'anomalie suivante a ete detectee : rail endommage.",
-      "coordinates": "39 19 N, 76 31 O"
+      "Date": "10/07/2019 12:46",
+      "Label": "Detection anomalie",
+      "Description": "L'anomalie suivante a ete detectee : rail endommage.",
+      "Coordonnees": "39 19 N, 76 31 O"
     },
     {
       "id": 4,
-      "time": "10/07/2019 13:20",
-      "title": "Fin routine",
-      "description": "L'appareil 1 a fini sa routine.",
-      "coordinates": "39 12 N, 76 40 O"
+      "Date": "10/07/2019 13:20",
+      "Label": "Fin routine",
+      "Description": "L'appareil 1 a fini sa routine.",
+      "Coordonnees": "39 12 N, 76 40 O"
     }
   ],
   "users": [
