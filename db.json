@@ -35,7 +35,7 @@
       "Statut": "Inactif",
       "Anomalies detectees": 0,
       "Dernier log": "L'appareil 1 a fini sa routine.",
-      "Coodonnées": "39 12 N, 76 40 O",
+      "Coodonnees": "39 12 N, 76 40 O",
       "Vitesse":  "0 km/h"
     },
     {
@@ -43,7 +43,7 @@
       "Statut": "Actif",
       "Anomalies detectees": 0,
       "Dernier log": "L'appareil 2 a commence sa routine.",
-      "Coordonnées": "39 17 N, 76 36 O",
+      "Coordonnees": "39 17 N, 76 36 O",
       "Vitesse": "4 km/h"
     },
     {
@@ -51,8 +51,8 @@
       "Statut": "Actif",
       "Anomalies detectees": 2,
       "Dernier log": "L'anomalie suivante a ete detectee : rail endommage.",
-      "Coordonnées": "39 19 N, 76 31 O",
-      "vitesse": "4 km/h"
+      "Coordonnees": "39 19 N, 76 31 O",
+      "Vitesse": "4 km/h"
     }
   ],
   "profile": {
