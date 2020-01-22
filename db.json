@@ -57,7 +57,7 @@
       "Coordonnees": "39 12 N, 76 40 O"
     }
   ],
-  "users": [
+  "machines": [
     {
       "id": 1,
       "Statut": "Inactif",
