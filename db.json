@@ -5,56 +5,64 @@
       "Date": "9/07/2019 17:13",
       "Label": "Demarrage routine",
       "Description": "La machine numero 1 commence sa routine.",
-      "Coordonnees": "39 11 N, 75 47 O"
+      "Coordonnees": "39 11 N, 75 47 O",
+      "Source":  "Machine 1"
     },
     {
       "id": 2,
       "Date": "9/07/2019 17:41",
       "Label": "Demarrage routine",
       "Description": "La machine numero 2 commence sa routine.",
-      "Coordonnees": "39 13 N, 75 37 O"
+      "Coordonnees": "39 13 N, 75 37 O",
+      "Source": "Machine 2"
     },
     {
       "id": 3,
       "Date": "9/07/2019 18:42",
       "Label": "Fin routine",
       "Description": "La machine numero 2 a fini sa routine.",
-      "Coordonnees": "39 02 N, 74 55 O"
+      "Coordonnees": "39 02 N, 74 55 O",
+      "Source": "Machine 2"
     },
     {
       "id": 4,
       "Date": "9/07/2019 19:20",
       "Label": "Demarrage routine",
       "Description": "La machine numero 3 commence sa routine.",
-      "Coordonnees": "39 37 N, 77 24 O"
+      "Coordonnees": "39 37 N, 77 24 O",
+      "Source": "Machine 3"
     },
     {
       "id": 5,
       "Date": "10/07/2019 12:07",
       "Label": "Demarrage routine",
       "Description": "La machine numero 2 commence sa routine.",
-      "Coordonnees": "39 17 N, 76 36 O"
+      "Coordonnees": "39 17 N, 76 36 O",
+      "Source": "Machine 2"
     },
     {
       "id": 6,
       "Date": "10/07/2019 12:23",
       "Label": "Detection anomalie",
       "Description": "L'anomalie suivante a ete detectee par la machine numero 3: ecartement des rails de 2,14cm.",
-      "Coordonnees": "39 18 N, 75 58 O"
+      "Coordonnees": "39 18 N, 75 58 O",
+      "Source": "Machine 3"
     },
     {
       "id": 7,
       "Date": "10/07/2019 12:46",
       "Label": "Detection anomalie",
       "Description": "L'anomalie suivante a ete detectee par la machine numero 3: rail endommage.",
-      "Coordonnees": "39 19 N, 76 31 O"
+      "Coordonnees": "39 19 N, 76 31 O",
+      "Source": "Machine 3"
     },
     {
       "id": 8,
       "Date": "10/07/2019 13:20",
       "Label": "Fin routine",
       "Description": "La machine numero 1 a fini sa routine.",
-      "Coordonnees": "39 12 N, 76 40 O"
+      "Coordonnees": "39 12 N, 76 40 O",
+      "Source": "Machine 1"
     }
   ],
   "machines": [
